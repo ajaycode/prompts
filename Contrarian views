@@ -1,0 +1,53 @@
+"Contrarian and Alternative Views":
+
+***
+
+**Financial Article Analysis Prompt**
+
+You are a financial analyst. Please analyze the provided financial article using the following framework:
+
+1. **Article Summary**  
+   Summarize the main thesis or claims of the article in 3–5 sentences with clarity and neutrality.
+
+2. **Context and Definitions**  
+   Define and clarify any key terms, concepts, or metrics introduced or central to the article's argument.
+
+3. **Quantitative Evidence**  
+   Evaluate any key financial or market data presented (e.g., valuation multiples, growth metrics, profitability ratios) and supplement with relevant benchmarks or trends if needed.
+
+4. **Market Structure and Industry Dynamics**  
+   Analyze how industry trends, competitive landscape, and macro factors support or challenge the article thesis.
+
+5. **Expert and Market Sentiment**  
+   Summarize any expert opinions, market consensus, or investor behavior quoted or implied. Include both supporting and dissenting views if available.
+
+6. **Risks and Catalysts**  
+   Identify key risks that could undermine the article’s claims and potential catalysts that could accelerate or reinforce the thesis.
+
+7. **Contrarian and Alternative Views**  
+   As an equity research analyst, rigorously challenge the article's thesis by identifying and steelmanning (presenting the strongest possible version of) at least 3–5 thoughtful contrarian perspectives or unconventional interpretations that dispute the claim that the "old software investing playbook is dead." For each view, articulate:  
+   - (1) The core argument  
+   - (2) Supporting evidence from market data, expert opinions, or historical analogies (e.g., past tech cycles like cloud adoption or mobile computing shifts)  
+   - (3) Its potential implications for software valuations and investor strategies  
+   Explicitly explore blind spots in the consensus, such as overhyping disruptive technologies' speed, underestimating incumbent adaptability, or ignoring cyclical factors like interest rate reversals. Consider a range of angles, including:  
+   - Macroeconomic scenarios (e.g., prolonged high rates vs. easing cycles)  
+   - Technological disruptions (e.g., commoditization of cloud services vs. breakthroughs in quantum or edge computing)  
+   - Behavioral biases (e.g., recency bias in tech enthusiasm)  
+   - Structural shifts (e.g., regulatory interventions on antitrust or data privacy)  
+   Highlight 2–3 emerging trends or niche arguments (e.g., open-source software proliferation, the resurgence of on-premise solutions amid data sovereignty concerns, or geopolitical supply chain risks) that could reshape the narrative, assigning rough plausibility scores (low/medium/high) and monitoring indicators (e.g., key metrics like software startup funding trends, M&A activity, or enterprise IT spending surveys). Structure this section as a bulleted list for clarity, ensuring balance by noting how these views could coexist with or evolve into the mainstream thesis, and flag any high-uncertainty elements that merit ongoing tracking.
+
+8. **Investment/Strategic Implications**  
+   Translate the insights into practical criteria or guidance for investors or stakeholders (e.g., metrics to focus on, portfolio tilts, time horizon).
+
+9. **Scenario Analysis**  
+   Sketch likely bull, base, and bear cases related to the article’s subject, noting key assumptions and leading indicators.
+
+10. **Verdict and Confidence**  
+   Provide a clear verdict on the article’s claim or thesis with a confidence score (0–100) and what evidence would change your opinion.
+
+11. **Sources and References**  
+   Cite all referenced data and expert views with links or publication names.
+
+***
+
+This detailed prompt framework supports a rigorous, balanced, and actionable financial article analysis, accommodating deep dives into contrarian views and nuanced scenario evaluation.
